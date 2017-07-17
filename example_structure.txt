@@ -1,0 +1,15 @@
+PZOPSS0811E - Pathfinder Society Scenario 8-11 - Forged in Flame - Part 2 - Cleansed With Fire
+  +---A. Security Complex
+  ¦       Tier 5-6.por
+  ¦       Tier 8-9.por
+  +---B. Emberhearth
+      +---B14 Master Suite
+      ¦       Tier 5-6.por
+      ¦       Tier 8-9.por
+      +---B2 Luminous Foyer
+      ¦       Tier 5-6.por
+      ¦       Tier 8-9.por
+      +---B5 Azer Quarters
+      ¦       All Tiers.por
+      +---B8 Storage Room
+              All Tiers.por
